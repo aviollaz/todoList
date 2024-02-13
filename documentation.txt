@@ -1,0 +1,2 @@
+I wanted to start with a simple project that would involve a UI and use some sort of data base. A good option for this was a to-do list app.
+
